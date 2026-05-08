@@ -43,10 +43,10 @@ df = pd.read_csv(my_csv_file)
 df.head()""")
 
 
-st.latex("""
-\begin{equation}
-    y = \beta_0 + \beta_1 x + \epsilon
-\end{equation}
+st.latex(r"""
+    a + ar + a r^2 + a r^3 + \cdots + a r^n =
+    \sum_{k=0}^n ar^k =
+    a \left(\frac{1-r^{n+1}}{1-r}\right)
 """)
 # -------------------------------------------------------------------------
 ```
