@@ -68,3 +68,8 @@ st.divider()
 st.write("This is some text written on 'write()' method...")
 
 ```
+<br>
+
+---
+
+![Day 1](./05.Text_Elements.png)
