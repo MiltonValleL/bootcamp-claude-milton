@@ -119,5 +119,12 @@ st.pyplot(fig)
 ```
 ![Image 1 Charting](./images/07.1.image.png)
 
+**NOTA:** Hoy tuve problemas al utilizar el método `st.map(df2)`, ya por mas que no producía errores, no se podrían ver las imagenes de los mapas
+Por esta razon tuve que instalar **folium**, que utiliza tiles de *OpenStreetMap* completamente gratuitos, sin tokens, sin límites.
+
+```bash
+pip install folium streamlit-folium
+```
+
 ![Image 2 Charting](./images/07.2.image.png)
 ---
