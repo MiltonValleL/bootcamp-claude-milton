@@ -114,7 +114,11 @@ txt_area = st.text_area(
 )
 st.write(txt_area)
 st.divider()
+
 ```
+![witgets 1](./images/08.Widgets_1.png)
+
+![witgets 2](./images/08.Widgets_2.png)
 
 <br>
 
@@ -166,6 +170,8 @@ st.write(f"""Your order summary:
 # ----------------------------------------------------------------------------------
 
 ```
+
+![Forms](./images/10.Forms.png)
 
 <br>
 
@@ -219,3 +225,4 @@ with st.container():
 st.write("This is outside the container")
 
 ```
+![customize layouts](./images/11.Customize_Layout.png)
