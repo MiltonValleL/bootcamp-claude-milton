@@ -5,5 +5,4 @@
 ## Friday, May 22, 2026
 1. Learned how upload `media files` on Streamlit.
 2. Learned how to worked with `Layouts`
-3. Learned `Data Elements`
-4. Learned `Status Elements`
+
